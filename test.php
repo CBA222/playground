@@ -1,2 +1,2 @@
-$output = shell_exec('cat myid');
+$output = shell_exec('ls');
 echo "$output";
